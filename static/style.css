@@ -34,14 +34,10 @@
 }
 
 #mcontent {
-  background: white;
+  background: rgba(0, 0, 0, 0.8);
   margin: 10px;
   border-radius: 5px;
   padding: 10px;
-}
-
-#details > h6 {
-  color: black;
 }
 
 .footer {
