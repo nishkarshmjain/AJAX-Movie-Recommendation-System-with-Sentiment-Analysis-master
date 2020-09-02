@@ -33,6 +33,17 @@
   margin-left: 50px;
 }
 
+#mcontent {
+  background: white;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#details > h6 {
+  color: black;
+}
+
 .footer {
   color: #e4e0e0;
   text-align: right;
