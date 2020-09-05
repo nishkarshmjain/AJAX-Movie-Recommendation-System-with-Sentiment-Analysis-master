@@ -8,10 +8,10 @@ Checkout https://movies-recommender-project.herokuapp.com/
 Movie Recommendation Engine
 Jun 2020 – Aug 2020
 
-Project descriptionThis is a content-based movie recommendation engine.
+This is a content-based movie recommendation engine.
 The project is inspired from the projects of Krish Naik.
 
-The movies dataset was obtained and processed from https://www.themoviedb.org/ and Wikipedia respectively.
+The movies dataset was obtained from Kaggle and Wikipedia respectively.
 The project is created using the Flask framework and deployed on Heroku.
 
 The similarity score is calculated using Cosine Similarity.
