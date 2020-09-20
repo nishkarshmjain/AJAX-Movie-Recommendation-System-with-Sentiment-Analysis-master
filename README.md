@@ -4,7 +4,7 @@ This project is created with video tutorials of Kish Naik.
 Initial template design credits : Kishan Lal
 
 Check out the application: https://movies-recommender-project.herokuapp.com/
-![alt text](Capture.PNG)
+![alt text](https://github.com/nishkarshmjain/Movie-Recommendation-System/blob/master/static/Capture.PNG)
 
 ## Similarity Score : 
 
