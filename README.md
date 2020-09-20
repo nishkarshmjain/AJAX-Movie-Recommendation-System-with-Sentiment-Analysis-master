@@ -1,16 +1,16 @@
 # Content-Based-Movie-Recommendation-System
 
 This project is created with video tutorials of Kish Naik.
-Initial template design credits : Kishan Lal
+Initial template design credits : Kishan Lal  
 
-Check out the application: https://movies-recommender-project.herokuapp.com/
+Check out the application : https://movies-recommender-project.herokuapp.com/
+
+
 ![alt text](https://github.com/nishkarshmjain/Movie-Recommendation-System/blob/master/static/Capture.PNG)
 
 ## Similarity Score : 
 
-   How does it decide which item is most similar to the item user likes? Here we use the similarity scores.
-   
-   It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
+   Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. It is often used to measure document similarity in text analysis.
    
 
 ### Sources of the datasets 
